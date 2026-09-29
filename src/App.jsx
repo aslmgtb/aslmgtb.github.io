@@ -34,6 +34,7 @@ export default function App() {
           <h1>{profile.name}</h1>
           <p className="headline">{profile.headline}</p>
           <p className="bio">{profile.bio}</p>
+          <p className="skills">{profile.skills}</p>
           <nav className="contact" aria-label="Contact links">
             <a href={profile.github} target="_blank" rel="noreferrer">GitHub</a>
             <a href={profile.linkedin} target="_blank" rel="noreferrer">LinkedIn</a>

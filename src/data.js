@@ -9,6 +9,7 @@ export const profile = {
   name: "Mohammed Aslam",
   headline: "I turn messy data into decisions.",
   bio: "Data analysis and AI student focused on business analysis. I build projects that answer real business questions, then explain the answer clearly. EDIT: write 2 to 3 lines about yourself.",
+  skills: "Python (pandas, matplotlib, streamlit, plotly) · SQL · Power BI · Excel · Statistics",
   github: "https://github.com/aslamgtb",
   linkedin: "https://www.linkedin.com/in/your-id", // EDIT
   email: "you@example.com", // EDIT
